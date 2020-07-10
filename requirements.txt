@@ -9,3 +9,4 @@ pyparsing
 six
 Werkzeug
 gunicorn
+google-cloud-ndb
