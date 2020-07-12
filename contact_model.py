@@ -1,6 +1,6 @@
-from google.appengine.ext import ndb
+from google.cloud import ndb
 
 class Contact(ndb.Model):
-    name = ndb.stringProperty()
-    phone = ndb.stringProperty()
-    email = ndb.stringProperty()
+    name = ndb.StringProperty()
+    phone = ndb.StringProperty()
+    email = ndb.StringProperty()
