@@ -1,7 +1,1 @@
-service: default
 runtime: python37
-
-handlers:
-  -ulr: .*
-  script: main.app
-  secure: always
