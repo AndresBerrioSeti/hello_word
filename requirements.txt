@@ -1,12 +1,4 @@
 Flask
-click
-appdirs
-itsdangerous
-Jinja2
-MarkupSafe
-packaging
-pyparsing
-six
-Werkzeug
-gunicorn
+setuptools
 google-cloud-ndb
+googleapis_common_protos
